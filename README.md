@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Here I tried to solve all Basic & Medium Level SQL problems challenges in Data Lemur websites.
+Here I tried to solve all Basic & Medium Level SQL problems challenges in Data Lemur website.
 This website helped me to shape my problem solving attitude and understanding  deeper knowledge in SQL.
 
 Please find below Data Lemur website link.
